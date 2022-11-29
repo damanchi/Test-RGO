@@ -1,0 +1,8 @@
+*background{
+    background-color: black;
+}
+
+
+.grid-container{
+    display: grid;
+}
